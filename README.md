@@ -1,2 +1,3 @@
-# cv
-My personal CV.
+# Varentsov Pavel CV
+
+* [RU](./ru.cv.md)
