@@ -27,7 +27,7 @@
 
 Занимался разработкой бэкенда для коммуникационной платформы ["Видеоселектор"](https://videoselector.ru/en/) (Web).
 
-Переписывал функционал чатов и функционал управления видео-трансляциями с `PHP` на `Node.js`/`TypeScript`. Робатал с веб-сокетами и [`PostgreSQL Pub/Sub`](https://www.postgresql.org/docs/current/libpq-notify.html). Написал сервис для извлечения изображений из pdf-файлов на `Golang`.
+Переписывал функционал чатов и функционал управления видеотрансляциями с `PHP` на `Node.js`/`TypeScript`. Работал с веб-сокетами и [`PostgreSQL Pub/Sub`](https://www.postgresql.org/docs/current/libpq-notify.html). Написал сервис для извлечения изображений из pdf-файлов на `Golang`.
 
 Стек: `Node.js`, `TypeScript`, `Nest.js`, `PostgreSQL`, `RabbitMQ`, `WebSocket`.
 
