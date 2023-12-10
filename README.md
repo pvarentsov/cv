@@ -2,7 +2,7 @@
 
 ## Markdown
 
-* [RU](./ru.cv.md)
+* [RU](./md/ru.cv.md)
 
 ## PDF
 
