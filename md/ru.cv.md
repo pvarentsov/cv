@@ -7,7 +7,7 @@
 * `Backend разработка`;
 * `Golang`;
 * `Node.js` (`JavaScript`/`TypeScript`);
-* `PostgresSQL`.
+* `PostgreSQL`.
 
 #### Контакты
 * Gmail: [varentsovpavel@gmail.com](mailto:varentsovpavel@gmail.com)
