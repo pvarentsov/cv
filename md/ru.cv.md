@@ -53,7 +53,7 @@
 
    Писал бизнес-логику и модульные тесты на Node.js/TypeScript, поддерживал сервис по вотермаркированию медиа-файлов на Java с использованием FFmpeg и [SITMark](https://www.sit.fraunhofer.de/en/offers/projekte/digital-watermarking/). Написал сервис на Java для сканирования файлов на наличие вирусов с использованием [ClamAV](https://www.clamav.net/). Настраивал инфраструктуру для ограничения доступа к файлам через Cloudfront и S3.
 
-   Стек: Node.js, TypeScript, Express.js, Java, Spring Framework, AWS Aurora PostgreSQL, AWS EC2, AWS Cloudfront, AWS: S3, Jenkins.
+   Стек: Node.js, TypeScript, Express.js, Java, Spring Framework, AWS Aurora PostgreSQL, AWS EC2, AWS Cloudfront, AWS S3, Jenkins.
 
 ## OpenSource
 
