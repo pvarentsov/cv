@@ -63,3 +63,7 @@
 * [nestjs-pg-notify](https://github.com/pvarentsov/nestjs-pg-notify) - Библиотека для фреймворка Nest.js для работы с [PostgreSQL Pub/Sub](https://www.postgresql.org/docs/current/libpq-notify.html).
 
 Другие проекты можно посмотреть в моем профиле GitHub - [https://github.com/pvarentsov](https://github.com/pvarentsov/).
+
+## Образование
+
+[**ПГТУ «ВОЛГАТЕХ»**](https://www.volgatech.net/) ФИиВТ (Июль 2012 — Июль 2016). Диплом бакалавра по направлению подготовки "Информатика и вычислительная техника".
